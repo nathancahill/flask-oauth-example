@@ -1,4 +1,4 @@
-Flask-Oauth Example
+Flask-OAuth Example
 ===================
 
 Barebones example of integrating an OAuth login system with a Flask app.
